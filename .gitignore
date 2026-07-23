@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+grade.json
+.pytest_cache/
+.vscode/
